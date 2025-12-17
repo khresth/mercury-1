@@ -1,0 +1,11 @@
+# build artifacts
+.env
+.env.*
+node_modules/
+cache/
+artifacts/
+dist/
+typechain/
+coverage/
+*.private.key
+**/secrets.json
